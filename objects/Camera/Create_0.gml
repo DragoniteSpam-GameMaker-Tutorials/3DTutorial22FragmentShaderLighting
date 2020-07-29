@@ -56,6 +56,8 @@ vb_player = load_model("player.d3d");
 vb_cube = load_model("cube.d3d");
 vb_octagon = load_model("octagon.d3d");
 
+vb_sphere = load_model("sphere.d3d");
+
 ///////////////////////////////////////////////////
 
 c_shape_cube = c_shape_create();

@@ -679,6 +679,14 @@
             }
         },
         {
+            "Key": "e3829fe2-2106-44b1-93c2-5d706d92d5e3",
+            "Value": {
+                "id": "46f6316b-5b5b-4c8c-a901-b1ba290a9eb7",
+                "resourcePath": "datafiles_yy\\sphere.d3d.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "e4193b5d-b473-4e75-8637-7cc30a513723",
             "Value": {
                 "id": "faa9fd1a-c6ad-46af-b264-81c54d51ad51",
